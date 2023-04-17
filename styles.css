@@ -3,6 +3,16 @@
 }
 
 .title {
-    background-color: black;
-    color: blueviolet;
+    background-color: wheat;
+    color: blue;
+}
+
+.main {
+    background-color: wheat;
+    color: blue;
+}
+
+.footer {
+    background-color: wheat;
+    color: blue;
 }
